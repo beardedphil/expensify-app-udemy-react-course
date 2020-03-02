@@ -33,6 +33,7 @@
     "css-loader": "^0.28.4",
     "express": "^4.15.4",
     "extract-text-webpack-plugin": "^3.0.2",
+    "firebase": "^7.9.3",
     "history": "^4.10.1",
     "moment": "^2.18.1",
     "node-sass": "^4.5.3",
