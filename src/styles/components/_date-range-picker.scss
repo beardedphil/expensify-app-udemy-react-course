@@ -1,0 +1,11 @@
+.DateRangePickerInput {
+  max-width: 33rem;
+  white-space: nowrap !important;
+
+  @media (max-width: $desktop-breakpoint) {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+}
